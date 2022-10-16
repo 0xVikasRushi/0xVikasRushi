@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xVikasRushi&show_icons=true&count_private=true&theme=algolia" alt="Vikas Rushi's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xVikasRushi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-shubh&theme=algolia&hide_border=false" alt="Top Langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvikasrushi&theme=algolia&hide_border=false" alt="Top Langs">
   <br><br>
 </p>
 
