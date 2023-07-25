@@ -4,11 +4,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-rushi/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=vikas-rushi&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
   <a href="https://leetcode.com/0xVikasRushi/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=0xVikasRushi&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
-  <a href="mailto:vikasrushi@outlook.com"><img src="https://img.shields.io/static/v1?label=E-Mail&message=vikasrushi@outlook.com&style=flat-square&logo=Mail.Ru&color=blue" alt="E-Mail logo" /></a>
 </p>
 
 # 💫 About Me:
-🌱 I’m currently learning web3 and MERN<br>⚡ I’m interested in Blockchain Security and AI<br>📫 How to reach me: vikasrushi@outlook.com<br>🚀 Obsessed in Building DApps
+🌱 I’m currently learning web3 and MERN<br>⚡ I’m interested in Blockchain Security and AI<br>🚀 Obsessed in Building DApps
 
 
 ## Languages and Tools
