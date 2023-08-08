@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vikas Rushi </h1>
-<h3 align="center">Full Stack Blockchain Developer | MERN | Smart  | Infosec</h3>
+<h3 align="center">Full Stack Blockchain Developer | MERN | Smart Contracts  | Infosec</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-rushi/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=vikas-rushi&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
   <a href="https://leetcode.com/0xVikasRushi/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=0xVikasRushi&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
