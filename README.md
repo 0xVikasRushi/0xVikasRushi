@@ -5,8 +5,8 @@
   <a href="https://leetcode.com/0xVikasRushi/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=0xVikasRushi&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
 </p>
 
-# 💫 About Me:
-🌱 I’m currently learning Golang and Zero Knowledge Proof <br>⚡ I’m interested in ZKP<br>
+## About Me:
+I'm a Full Stack web Developer. I love to contribute to Open Source projects. Currently Focuing on researching in Zero Knowledege Proof and building projects on ZKP. I’m currently learning Zkp, Cryptography and distributed systems.
 
 ## Skills
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -35,6 +35,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+## 👨‍💻 Projects
+- [✅ **OpenIssueMointor:** Notification system designed for tracking specific labels for GitHub issues](https://github.com/0xVikasRushi/OpenIssueMonitor) (TypeScript, Nodejs)
+- [✅ **ipfs-encrypt:** A Node.js module for upload/download encrypted folders to/from IPFS using AES-256-CBC encryption](https://github.com/0xVikasRushi/ipfs-encrypt) (JavaScript, Nodejs)
+- [✅ **eamcet.info:** Test Engine for Eamcet Entrance Exam with interface as Offical Exam](https://eamcet.info/) (Next.js, Mongodb, Typescript)
+- [✅ **raft-blockchain:** Raft consensus algorithm implementation in typescript](https://github.com/0xVikasRushi/raft-blockchain) (TypeScript, Nodejs)
+- [✅ **VerifyChainX:** Quadratic Voting App, integrates Anon Aadhaar Authentication for secure identification and a ERC4337 Wallet compatible](https://github.com/0xVikasRushi/VerifyChainX) (React Native, Nextjs, Nodejs and Solidity)
+- [✅ **log-ingestion:** Scalable Log Management system with query interface](https://github.com/0xVikasRushi/log-ingestion) (Typescript, Nextjs, Nodejs and ElasticSearch)
+- [✅ **GRIET-2k23:** Offline Smart Attendance Management App](https://github.com/c-shubh/GRIET-2k23) (Javascript, React Native, Nodejs, Express, MongoDb and Nextjs)
 
 
 # 📊 GitHub Stats:
