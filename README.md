@@ -46,10 +46,13 @@ I'm a Full Stack web Developer. I love to contribute to Open Source projects. Cu
 - [✅ **log-ingestion:** Scalable Log Management system with query interface](https://github.com/0xVikasRushi/log-ingestion) (Typescript, Nextjs, Nodejs and ElasticSearch)
 - [✅ **GRIET-2k23:** Offline Smart Attendance Management App](https://github.com/c-shubh/GRIET-2k23) (Javascript, React Native, Nodejs, Express, MongoDb and Nextjs)
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xVikasRushi&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xVikasRushi&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xVikasRushi&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![stats widget]][0xVikasRushi-user]
+[![language widget]][0xVikasRushi-user]
 
+[0xVikasRushi-user]: https://github.com/0xVikasRushi/0xVikasRushi
+[stats widget]: https://github-readme-stats.vercel.app/api?username=0xVikasRushi&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=GitHub%20Stats
+[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=0xVikasRushi&langs_count=6&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
+[activity graph]: https://activity-graph.herokuapp.com/graph?username=timoftime&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
 
