@@ -52,7 +52,7 @@ I'm a Full Stack web Developer. I love to contribute to Open Source projects. Cu
 
 </details>
   
-
+<!---
 ## 📊 GitHub Stats
 
 [![stats widget]][0xVikasRushi-user]
@@ -62,4 +62,5 @@ I'm a Full Stack web Developer. I love to contribute to Open Source projects. Cu
 [stats widget]: https://github-readme-stats.vercel.app/api?username=0xVikasRushi&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=GitHub%20Stats
 [language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=0xVikasRushi&langs_count=6&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
 [activity graph]: https://activity-graph.herokuapp.com/graph?username=timoftime&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
+-->
 
