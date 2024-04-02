@@ -38,13 +38,20 @@ I'm a Full Stack web Developer. I love to contribute to Open Source projects. Cu
 
 
 ## 👨‍💻 Projects
-- [✅ **OpenIssueMointor:** Notification system designed for tracking specific labels for GitHub issues](https://github.com/0xVikasRushi/OpenIssueMonitor) (TypeScript, Nodejs)
+- [✅ **Kademila:** Distributed Hash Table Implementation](https://github.com/0xVikasRushi/kademila)
+- [✅ **raft-blockchain:** Raft consensus algorithm implementation in typescript](https://github.com/0xVikasRushi/raft-blockchain) 
+- [✅ **OpenIssueMointor:** Notification system designed for tracking specific labels for GitHub issues](https://github.com/0xVikasRushi/OpenIssueMonitor) 
+
+<details><summary>View More Projects</summary>
+
 - [✅ **ipfs-encrypt:** A Node.js module for upload/download encrypted folders to/from IPFS using AES-256-CBC encryption](https://github.com/0xVikasRushi/ipfs-encrypt) (JavaScript, Nodejs)
-- [✅ **eamcet.info:** Test Engine for Eamcet Entrance Exam with interface as Offical Exam](https://eamcet.info/) (Next.js, Mongodb, Typescript)
-- [✅ **raft-blockchain:** Raft consensus algorithm implementation in typescript](https://github.com/0xVikasRushi/raft-blockchain) (TypeScript, Nodejs)
 - [✅ **VerifyChainX:** Quadratic Voting App, integrates Anon Aadhaar Authentication for secure identification and a ERC4337 Wallet compatible](https://github.com/0xVikasRushi/VerifyChainX) (React Native, Nextjs, Nodejs and Solidity)
+- [✅ **eamcet.info:** Test Engine for Eamcet Entrance Exam with interface as Offical Exam](https://eamcet.info/) (Next.js, Mongodb, Typescript)
 - [✅ **log-ingestion:** Scalable Log Management system with query interface](https://github.com/0xVikasRushi/log-ingestion) (Typescript, Nextjs, Nodejs and ElasticSearch)
 - [✅ **GRIET-2k23:** Offline Smart Attendance Management App](https://github.com/c-shubh/GRIET-2k23) (Javascript, React Native, Nodejs, Express, MongoDb and Nextjs)
+
+</details>
+  
 
 ## 📊 GitHub Stats
 
