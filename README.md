@@ -8,7 +8,7 @@
 ## About Me:
 - 💻 Intern at Catalog.fi
 - 🔗 I love to contribute to ZKP projects in my spare time
-- 🔐 Currently working and researching ZK and public key cryptography
+- 🔐 Currently researching ZK and public key cryptography
 - 📚 I love coding research papers into practical implementations
 
 ## 👨‍💻 Previous Projects
