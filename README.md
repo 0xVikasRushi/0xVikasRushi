@@ -7,7 +7,7 @@
 
 ## About Me:
 - 💻 Intern at Catalog.fi
-- 🔗 I love to contribute to ZKP projects in my spare time
+- 🔗 I love to contribute to ZKP projects in my spare time at [crema-labs](https://github.com/crema-labs)
 - 🔐 Currently researching ZK and public key cryptography
 - 📚 I love coding research papers into practical implementations
 
