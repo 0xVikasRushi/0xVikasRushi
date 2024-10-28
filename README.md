@@ -1,4 +1,4 @@
-
+<!---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vikas Rushi </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-rushi/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=vikas-rushi&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
@@ -29,7 +29,7 @@
 
 </details>
   
-<!---
+
 ## 📊 GitHub Stats
 
 [![stats widget]][0xVikasRushi-user]
