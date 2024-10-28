@@ -6,7 +6,7 @@
 </p>
 
 ## About Me:
-- 🔗 I love to contribute to ZKP projects in my spare time at [crema-labs](https://github.com/crema-labs)
+- 🔗 I love to contribute to ZKP projects in my spare time at [crema-labs](https://github.com/crema-labs), [zk-passport](https://github.com/zk-passport/openpassport)
 - 🔐 Currently researching ZK and public key cryptography
 - 📚 I love coding research papers into practical implementations
 
