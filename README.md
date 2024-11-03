@@ -1,3 +1,14 @@
+## Hello, I'm Vikas
+
+I'm a research engineer fascinated by Zero Knowledge Proofs and low-level systems. My work focuses on implementing cryptographic circuits and turning theoretical papers into practical code. I enjoy exploring the intersection of mathematics, cryptography, and distributed systems.
+
+
+Some things about me:
+* I write circuits in ZK and love diving deep into protocol implementations
+* I enjoy turning complex research papers into working code
+* I believe in building technology that preserves privacy while enabling trust
+
+
 <!---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vikas Rushi </h1>
 <p align="center">
