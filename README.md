@@ -2,11 +2,12 @@
 
 I'm a research engineer fascinated by Zero Knowledge Proofs and low-level systems. My work focuses on implementing cryptographic circuits and turning theoretical papers into practical code. I enjoy exploring the intersection of mathematics, cryptography, and distributed systems.
 
+### Some things about me:
+* I write circuits in ZK and love diving deep into protocol implementations.
+* I enjoy turning complex research papers into working code.
+* I actively build PoCs at [Crema Labs](https://github.com/crema-labs) in the ZK space.
 
-Some things about me:
-* I write circuits in ZK and love diving deep into protocol implementations
-* I enjoy turning complex research papers into working code
-* I believe in building technology that preserves privacy while enabling trust
+Bunch of pet projects I have worked on: [regExp-Engine](https://github.com/0xVikasRushi/regExp-Engine), [Kademila](https://github.com/0xVikasRushi/kademila), [raft-blockchain](https://github.com/0xVikasRushi/raft-blockchain), [splitwise-rust](https://github.com/0xVikasRushi/splitwise-rust), [OpenIssueMonitor](https://github.com/0xVikasRushi/OpenIssueMonitor), [ipfs-encrypt](https://github.com/0xVikasRushi/ipfs-encrypt)
 
 
 <!---
